@@ -4,8 +4,17 @@ h1 {
 	padding: 30px;
 	margin: 50px;
 }
-
-
-.btn-danger {
+.btn-default {
 	background-color: blue;
+
+}
+
+.btn-default:hover {
+	background-color: red;
+
+}
+
+}
+body {
+	margin: 50px;
 }
